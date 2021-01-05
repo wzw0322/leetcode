@@ -8,7 +8,7 @@ package com.wzw.algo;
  *  *      0、1  2  3  4  5  6  7   8  9  10  11  12
  *  * 从第三项开始，每一项都等于前两项之和: F(N) = F(N-2)+F(N-1)
  */
-public class FibonacciNumber {
+public class _509_斐波那契数 {
 
     /**
      * 第一种实现方式，递归调用
